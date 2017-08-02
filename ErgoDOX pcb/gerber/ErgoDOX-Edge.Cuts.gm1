@@ -1,7 +1,10 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(2016-12-22 revision d365dc5)-makepkg*
+G04 #@! TF.CreationDate,2017-01-06T12:14:16-05:00*
+G04 #@! TF.ProjectId,ErgoDOX,4572676F444F582E6B696361645F7063,rev?*
 G04 #@! TF.FileFunction,Profile,NP*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (2016-11-25 revision 30df041)-makepkg) date 12/05/16 22:00:37*
+G04 Created by KiCad (PCBNEW (2016-12-22 revision d365dc5)-makepkg) date 01/06/17 12:14:16*
 %MOMM*%
 %LPD*%
 G01*
